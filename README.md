@@ -2,19 +2,21 @@
 🩺 Problem Statement: AI-Driven Public Health Chatbot for Disease Awareness
 Title
 
-“Arogyā Bandhu” – AI Chatbot for Disease Awareness in Odisha
+“Arogya Bandhu” – AI Chatbot for Disease Awareness in Odisha
 
 Background / Context:
 
-In Odisha, many communities—especially in remote, tribal, rural, and under-served areas—face challenges in accessing timely, accurate health information. Misunderstandings, myths, delayed diagnosis, language barriers, and low health literacy exacerbate disease burdens. The Government of Odisha has made telemedicine helplines, health centres and outreach programs, but there is still a gap in continuous, accessible, reliable awareness and preventive advisory services.
+In Odisha, many communities—especially in remote, tribal, rural, and underserved areas—face challenges in accessing timely, accurate health information. Misunderstandings, myths, delayed diagnosis, language barriers, and low health literacy exacerbate disease burdens. The Government of Odisha has established telemedicine helplines, health centres, and outreach programs; however, there remains a gap in providing continuous, accessible, and reliable awareness and preventive advisory services.
 
 Digital penetration (mobile phones etc.) is rising, but many people hesitate to approach formal services for questions that seem “small” until they become serious.
+
+Odisha, being a cyclone-prone state, experiences heavy rainfall and floods each year. With increasing water level, various diseases endemically spread, which can sometimes even be fatal.
 
 Problem:
 
 People lack a trusted, easy-to-use channel to ask health questions and get reliable answers in local languages.
 
-Many disease outbreaks go un-recognized or poorly understood early on (e.g. dengue, malaria, seasonal flu, gastrointestinal infections).
+Many disease outbreaks go unrecognised or poorly understood early on (e.g. dengue, malaria, seasonal flu, gastrointestinal infections).
 
 Public health messaging is often generic, not interactive, and fails to adapt to individual concerns, symptoms, or local context.
 
@@ -24,23 +26,23 @@ Scope / Constraints:
 
 Geography / Demographics: Odisha, with focus also on remote and tribal areas; languages include Odia, tribal dialects.
 
-Channels & Access: Should work on low-bandwidth / low-data mobile devices; possibly via WhatsApp / SMS / app / web.
+Channels & Access: Should work on low-bandwidth / low-data mobile devices; possibly via WhatsApp / SMS/app / web.
 
-Data / Privacy: Follow govt. regulations, ensure privacy of personal health queries; anonymize data.
+Data / Privacy: Follow the government. regulations, ensure privacy of personal health queries; anonymise data.
 
-Accuracy / Trust: Answers must align with official health guidelines, validated by medical experts.
+Accuracy / Trust: Answers must align with official health guidelines, be validated by medical experts, understood by the people.
 
 Scalability & Offline Access: May have intermittent connectivity; must handle many parallel queries.
 
 Objectives:
 
-Build a chatbot (“Arogyā Bandhu”) that allows users to ask disease-related questions (symptoms, prevention, when to see doctor).
+Build a chatbot (“Arogyā Bandhu”) that allows users to ask disease-related questions (symptoms, prevention, when to see a doctor).
 
-Provide trustworthy, localized, context-aware responses in Odia (and other relevant local languages).
+Provide trustworthy, localised, context-aware responses in Odia (and other relevant local languages).
 
 Increase awareness of prevention measures for major regional diseases (e.g. malaria, diarrhoea, vector borne, seasonal).
 
-Include features to escalate: if symptoms severe, guide them to nearest facility / helpline.
+Include features to escalate: if symptoms severe, guide them to the nearest facility/helpline.
 
 Analytics dashboard for government to see frequent concerns, patterns, outbreaks.
 
