@@ -4,13 +4,13 @@ Title
 
 “Arogyā Bandhu” – AI Chatbot for Disease Awareness in Odisha
 
-Background / Context
+Background / Context:
 
 In Odisha, many communities—especially in remote, tribal, rural, and under-served areas—face challenges in accessing timely, accurate health information. Misunderstandings, myths, delayed diagnosis, language barriers, and low health literacy exacerbate disease burdens. The Government of Odisha has made telemedicine helplines, health centres and outreach programs, but there is still a gap in continuous, accessible, reliable awareness and preventive advisory services.
 
 Digital penetration (mobile phones etc.) is rising, but many people hesitate to approach formal services for questions that seem “small” until they become serious.
 
-Problem
+Problem:
 
 People lack a trusted, easy-to-use channel to ask health questions and get reliable answers in local languages.
 
@@ -20,7 +20,7 @@ Public health messaging is often generic, not interactive, and fails to adapt to
 
 Because of limited resources, human health workers can’t respond in real time to every query.
 
-Scope / Constraints
+Scope / Constraints:
 
 Geography / Demographics: Odisha, with focus also on remote and tribal areas; languages include Odia, tribal dialects.
 
@@ -32,7 +32,7 @@ Accuracy / Trust: Answers must align with official health guidelines, validated 
 
 Scalability & Offline Access: May have intermittent connectivity; must handle many parallel queries.
 
-Objectives
+Objectives:
 
 Build a chatbot (“Arogyā Bandhu”) that allows users to ask disease-related questions (symptoms, prevention, when to see doctor).
 
@@ -44,7 +44,7 @@ Include features to escalate: if symptoms severe, guide them to nearest facility
 
 Analytics dashboard for government to see frequent concerns, patterns, outbreaks.
 
-Importance / Impact
+Importance / Impact:
 
 Empower citizens with knowledge → early prevention, reduced disease severity, reduced burden on health system.
 
@@ -54,7 +54,7 @@ Improve health outcomes—especially in vulnerable populations.
 
 Aid government in planning, resource allocation, and targeted awareness campaigns.
 
-Success Criteria (KPIs)
+Success Criteria (KPIs):
 
 % of responding accurately to ≥ X% of user queries (as validated by health experts).
 
